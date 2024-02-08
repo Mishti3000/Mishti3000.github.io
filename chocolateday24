@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head><meta charset="UTF-8">
+<link rel="stylesheet" href="normalize.css" media="screen" />
+</head>
+<body>
+<h1 style="text-align:center; font-size:8vw">Happy Teddy Day my love!!</h1>
+<h2 style="text-align:center; font-size:5vw">Hi meri Aakasrhini, meri Jaan!!</h2>
+<p style="text-align:center; font-size:3vw">I am dedicating this song to you today - Choose where to open:</p>
+<p></p>
+<p></p>
+
+<div style="text-align:center">
+  <a href="https://open.spotify.com/track/3oWxFNsXstcancCR1wODR4?si=WHT2g0nPSsqsBrgjMKuc5A&context=spotify%3Aplaylist%3A37i9dQZF1DX14CbVHtvHRB"><button style=" font-size:3vw">Open in Spotify</button></a>  
+  <a href="https://music.youtube.com/watch?v=39BOqZO8xaM"><button style=" font-size:3vw">Open in Youtube Music</button></a>
+  <p style="text-align:left; font-size:3vw">Honey, come my GORGEOUS.. come soon to meet me want to give my beautiful girlfriend a chocolate today!!</p>
+  <img src="choco.jpg" alt="Click to view :(" style="width: 90%; hieght: auto">
+  <p style="text-align:center; font-size:3vw">I love you jaan!!</p>
+
+</div>
+<hr>
+<p style="text-align:center; font-size:3vw">I will keep updating this so make sure u keep an eye on!</p>
+</body>
+</html>
