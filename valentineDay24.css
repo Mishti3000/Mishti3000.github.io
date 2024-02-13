@@ -4,13 +4,29 @@ div {
   text-align: center;
 }
 .intro{
-  background-color
+  background-color: #E0FFC2;
 }
-.para1{}
-.para2{}
-.para3{}
-.para4{}
-.para5{}
-.para6{}
-.note{}
-.chal{}
+.para1{
+  background-color: #E2AFFF;
+}
+.para2{
+  background-color: #E0FFC2;
+}
+.para3{
+  background-color: #E2AFFF;
+}
+.para4{
+  background-color: #E0FFC2;
+}
+.para5{
+  background-color: #E2AFFF;
+}
+.para6{
+  background-color: #E0FFC2;
+}
+.note{
+  background-color: #E2AFFF;
+}
+.chal{
+  background-color: #FEC6AE;
+}
