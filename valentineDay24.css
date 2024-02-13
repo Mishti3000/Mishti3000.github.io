@@ -3,31 +3,31 @@ div {
   margin: auto;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   text-align: center;
-  background-color: #FEC6AE
+  background-color: #FFE5EB;
 }
 .intro{
   background-color: #E0FFC2;
 }
 .para1{
-  background-color: #ffccff;
+  background-color: #FEC6AE;
 }
 .para2{
   background-color: #E0FFC2;
 }
 .para3{
-  background-color: #ffccff;
+  background-color: #FEC6AE;
 }
 .para4{
   background-color: #E0FFC2;
 }
 .para5{
-  background-color: #ffccff;
+  background-color: #FEC6AE;
 }
 .para6{
   background-color: #E0FFC2;
 }
 .note{
-  background-color: #ffccff;
+  background-color: #FEC6AE;
 }
 .chal{
   background-color: #FEC6AE;
